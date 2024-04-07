@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Novik/static/css/main.e182430f.css",
+    "main.js": "/Novik/static/js/main.21a73cd4.js",
+    "static/js/453.cdc35078.chunk.js": "/Novik/static/js/453.cdc35078.chunk.js",
+    "static/media/main.jpg": "/Novik/static/media/main.25e4c100f070b89a1717.jpg",
+    "static/media/in.svg": "/Novik/static/media/in.e8b46334c4b0b0ecb0c7d407b7802abd.svg",
+    "static/media/reebok.jpg": "/Novik/static/media/reebok.96adda8d30d659d6181c.jpg",
+    "static/media/levis.jpg": "/Novik/static/media/levis.1d142dba1fa62f15c0c9.jpg",
+    "static/media/braun.jpg": "/Novik/static/media/braun.e126068716788b46ec4c.jpg",
+    "static/media/ps.jpg": "/Novik/static/media/ps.9d3f0827ecc139d869c9.jpg",
+    "static/media/ai.jpg": "/Novik/static/media/ai.68c326ff6a6c82ec8ad5.jpg",
+    "static/media/dribble.svg": "/Novik/static/media/dribble.17a35942f63cb872857c436cfae0a5ce.svg",
+    "static/media/behance.svg": "/Novik/static/media/behance.4b8558c02e96e1347a9ae880bbad6604.svg",
+    "static/media/instagram.svg": "/Novik/static/media/instagram.5fc9d738e4096f5ad905fd8ecf8fc316.svg",
+    "static/media/star-black.svg": "/Novik/static/media/star-black.eb22366a15ccabb5a5417deba5dcbfc2.svg",
+    "index.html": "/Novik/index.html",
+    "static/media/close.svg": "/Novik/static/media/close.720de1cf4b6f49d8221bfffe10c8402f.svg",
+    "static/media/burger.svg": "/Novik/static/media/burger.973721b6f3b14c650a7971210fce621b.svg",
+    "main.e182430f.css.map": "/Novik/static/css/main.e182430f.css.map",
+    "main.21a73cd4.js.map": "/Novik/static/js/main.21a73cd4.js.map",
+    "453.cdc35078.chunk.js.map": "/Novik/static/js/453.cdc35078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e182430f.css",
+    "static/js/main.21a73cd4.js"
+  ]
+}
