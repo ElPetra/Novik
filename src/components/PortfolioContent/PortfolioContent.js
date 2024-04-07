@@ -4,10 +4,10 @@ import imgReebok from "../../img/portfolio/reebok.jpg";
 import imgBraun from "../../img/portfolio/braun.jpg";
 import PortfolioItem from "../PortfolioItem/PortfolioItem";
 
-function PortfolioContent() {
+function PortfolioContent({ title }) {
   return (
     <section className="portfolio grey" id="portfolio">
-      <h2>Portfolio</h2>
+      <h2>{title}</h2>
       <PortfolioItem
         img={imgLevis}
         alt={"сайт компании levis"}
