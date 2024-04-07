@@ -1,0 +1,20 @@
+.portfolio {
+  padding-top: 113px;
+}
+h2 {
+  margin-bottom: 42px;
+}
+.portfolio p {
+  margin: auto;
+  margin-bottom: 99px;
+  text-align: center;
+}
+.portfolio_link {
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  transition: all 0.3s ease-out;
+  color:#070707;
+}
+.portfolio_link:hover {
+  border-bottom: 1px solid transparent;
+}

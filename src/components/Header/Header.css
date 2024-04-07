@@ -1,0 +1,35 @@
+header {
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.navigation ul {
+        margin: 33px 0 32px 0;
+        padding-left: 0;
+        display: flex;
+        justify-content: space-between;
+}
+.navigation li {
+    list-style-type: none;
+}
+.navigation a {
+    color: #828282;
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+}
+a:hover {
+    color: #070707;
+}
+.active {
+    color: #070707;
+}
+
+.close {
+    display: none;
+}
+hr {
+    margin-bottom: 40px;
+    color: #828282;
+}
