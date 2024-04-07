@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Novik/static/css/main.e182430f.css",
-    "main.js": "/Novik/static/js/main.21a73cd4.js",
+    "main.js": "/Novik/static/js/main.b4d4fde0.js",
     "static/js/453.cdc35078.chunk.js": "/Novik/static/js/453.cdc35078.chunk.js",
     "static/media/main.jpg": "/Novik/static/media/main.25e4c100f070b89a1717.jpg",
     "static/media/in.svg": "/Novik/static/media/in.e8b46334c4b0b0ecb0c7d407b7802abd.svg",
@@ -18,11 +18,11 @@
     "static/media/close.svg": "/Novik/static/media/close.720de1cf4b6f49d8221bfffe10c8402f.svg",
     "static/media/burger.svg": "/Novik/static/media/burger.973721b6f3b14c650a7971210fce621b.svg",
     "main.e182430f.css.map": "/Novik/static/css/main.e182430f.css.map",
-    "main.21a73cd4.js.map": "/Novik/static/js/main.21a73cd4.js.map",
+    "main.b4d4fde0.js.map": "/Novik/static/js/main.b4d4fde0.js.map",
     "453.cdc35078.chunk.js.map": "/Novik/static/js/453.cdc35078.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e182430f.css",
-    "static/js/main.21a73cd4.js"
+    "static/js/main.b4d4fde0.js"
   ]
 }
